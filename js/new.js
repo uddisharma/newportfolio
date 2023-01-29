@@ -27,4 +27,6 @@ function giphy() {
     window.location.href = 'https://extraordinary-halva-7c95cf.netlify.app/'
 }
 
-
+function edu() {
+    window.location.href = '#edu'
+}
